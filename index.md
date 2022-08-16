@@ -1,37 +1,74 @@
-## Welcome to GitHub Pages
+# Kanyshai Bakaeva 
+_React and React Native Developer based in Bishkek, Kyrgyzstan_
 
-You can use the [editor on GitHub](https://github.com/kbakaeva/CV_/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+[GitHub](https://github.com/kbakaeva) |  [LinkedIn ](https://www.linkedin.com/in/kbakaeva/) | [Telegram](https://t.me/kanyshai_bakaeva)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+`I am a frontend developer. Ready to apply my skills in programming, as well as develop in web and mobile development.
+In programming, I like logic, constant development and the opportunity to work on projects in different areas.`
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Skills
 
-```markdown
-Syntax highlighted code block
+ - Js (es5, es6+)
+ - React-js
+ - React-Native
+ - Redux
+ - Redux-Saga
+ - Redux Toolkit
+ - TypeScript
+ - Html5
+ - CSS3
+ - SASS(SCSS)
+ - Bem
+ - Bootstrap
+ - Material-UI
+ - Ant-Design
+ - Three-JS
+ 
 
-# Header 1
-## Header 2
-### Header 3
+### Work experience
 
-- Bulleted
-- List
+**WebHub Agency (Bondar Agency)**
+`04.10.2021 - current`
+`Junior React & React Native Developer`
 
-1. Numbered
-2. List
+**_Projects_**
+_React Native_
+1. Index (`crypto-wallet`) - _creation of the project architecture, project layout, connection to the API -  I worked on registration, login, recovery_
+2. Turan (`marketplace`) - _creation of the project architecture, redesign, work with fetch - Touch ID, Face ID_
+3. GhostDrive (`creation of the project architecture app`) - _layout, redesign app - animation, work with camera extensions_
+4. GhostWallet (`crypto-wallet`) - _creation of the project architecture, layout, redesign  - animation, work with camera extensions for qr-codes and face ID and Touch ID_
+_React_
+1. Wise-Charity (`NFT marketplace`) - _work with API requests, layout some components and adaptive website_
+2. Revenue (`CRM system`) - _work with statistics, admin panel, layout some components_
 
-**Bold** and _Italic_ and `Code` text
+**ITC Bootcamp**
+`Jul 2021 - Oct 2021`
+`Intern React & React Native Developer`
 
-[Link](url) and ![Image](src)
-```
+**_Projects_**
+_React Native_
+1. MathGame (`mental arithmetic game`) - _creation of the project architecture, project layout, connection to the API - I worked on registration, login, recovery and calculation logic_
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+**_Freelance projects_**
+1. Project for **USAID** (website for providing information about vaccination - React JS) - design, layout;
+2. **Health** (`medical consultation` - React Native Expo) - development from 0 (I worked on layout);
+3. **EnApp** (`English-Russian dictionary` - React Native Expo) - development from 0 (I worked on layout);
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kbakaeva/CV_/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### Additional information
+- Languages:
+  - English - _intermediate_
+  - Russian - _native_
+  - Kyrgyz - _native_
+ 
+- Personal qualities
+  - attentiveness 
+  - composure
+  - efficiency
+  - focus on results
 
-### Support or Contact
+### Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+ [Telegram](https://t.me/kanyshai_bakaeva) |
+ [Dlinni](https://djinni.co/q/c2738233ba/)
