@@ -29,14 +29,14 @@ In programming, I like logic, constant development and the opportunity to work o
 ### Work experience
 
 **WebHub Agency (Bondar Agency)**
-`04.10.2021 - current`
+`04.10.2021 - current time`
 `Junior React & React Native Developer`
 
 **_Projects_**
 _React Native_
 1. Index (`crypto-wallet`) - _creation of the project architecture, project layout, connection to the API -  I worked on registration, login, recovery_
 2. Turan (`marketplace`) - _creation of the project architecture, redesign, work with fetch - Touch ID, Face ID_
-3. GhostDrive (`creation of the project architecture app`) - _layout, redesign app - animation, work with camera extensions_
+3. GhostDrive (`cloud server and file sharing`) - _layout, redesign app - animation, work with camera extensions_
 4. GhostWallet (`crypto-wallet`) - _creation of the project architecture, layout, redesign  - animation, work with camera extensions for qr-codes and face ID and Touch ID_
 _React_
 1. Wise-Charity (`NFT marketplace`) - _work with API requests, layout some components and adaptive website_
