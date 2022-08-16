@@ -16,6 +16,7 @@ In programming, I like logic, constant development and the opportunity to work o
  - Redux-Saga
  - Redux Toolkit
  - TypeScript
+ - Figma
  - Html5
  - CSS3
  - SASS(SCSS)
