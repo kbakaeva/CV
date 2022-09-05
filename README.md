@@ -41,6 +41,7 @@ _React Native_
 4. `crypto-wallet` - _creation of the project architecture, layout, redesign  - animation, work with camera extensions for qr-codes and face ID and Touch ID_
 
 _React_
+
 1.`NFT marketplace` - _work with API requests, layout some components and adaptive website_
 2. `CRM system` - _work with statistics, admin panel, layout some components_
 
