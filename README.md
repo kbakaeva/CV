@@ -74,4 +74,4 @@ _React Native_
 ### Contact
 
  [Telegram](https://t.me/kanyshai_bakaeva) |
- [Dlinni](https://djinni.co/q/c2738233ba/)
+ [Djinni](https://djinni.co/q/c2738233ba/)
