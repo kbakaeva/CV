@@ -35,15 +35,15 @@ In programming, I like logic, constant development and the opportunity to work o
 
 **_Projects_**
 _React Native_
-1. `crypto-wallet` - _creation of the project architecture, project layout, connection to the API -  I worked on registration, login, recovery_
-2. `marketplace` - _creation of the project architecture, redesign, work with fetch - Touch ID, Face ID_
-3. `cloud server and file sharing` - _layout, redesign app - animation, work with camera extensions_
-4. `crypto-wallet` - _creation of the project architecture, layout, redesign  - animation, work with camera extensions for qr-codes and face ID and Touch ID_
+1. `Index` - _creation of the project architecture, project layout, connection to the API -  I worked on registration, login, recovery_
+2. `Turan` - _creation of the project architecture, redesign, work with fetch - Touch ID, Face ID_
+3. `GhostDrive` - _layout, redesign app - animation, work with camera extensions_
+4. `GhostWallet` - _creation of the project architecture, layout, redesign  - animation, work with camera extensions for qr-codes and face ID and Touch ID_
 
 _React_
 
-1.`NFT marketplace` - _work with API requests, layout some components and adaptive website_
-2. `CRM system` - _work with statistics, admin panel, layout some components_
+1.`WiseCharity` - _work with API requests, layout some components and adaptive website_
+2. `Revanue` - _work with statistics, admin panel, layout some components_
 
 **ITC Bootcamp**
 `Jul 2021 - Oct 2021`
@@ -51,12 +51,12 @@ _React_
 
 **_Projects_**
 _React Native_
-1.`mental arithmetic game` - _creation of the project architecture, project layout, connection to the API - I worked on registration, login, recovery and calculation logic_
+1.`MathGame` - _creation of the project architecture, project layout, connection to the API - I worked on registration, login, recovery and calculation logic_
 
 **_Freelance projects_**
 1. Project for **USAID** (website for providing information about vaccination - React JS) - design, layout;
-2. `medical consultation` - React Native Expo - development from 0 (I worked on layout);
-3. `English-Russian dictionary` - React Native Expo - development from 0 (I worked on layout);
+2. `Health` - React Native Expo - development from 0 (I worked on layout);
+3. `EnApp` - React Native Expo - development from 0 (I worked on layout);
 
 
 ### Additional information
